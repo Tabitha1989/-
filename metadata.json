@@ -1,0 +1,5 @@
+{
+  "name": "Market Bubble Detector",
+  "description": "A financial dashboard visualizing key metrics (Buffett Indicator, Shiller PE, etc.) to assess US stock market valuation levels, featuring AI-powered analysis.",
+  "requestFramePermissions": []
+}
